@@ -1,0 +1,14 @@
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/bin/Debug/net9.0/MathGame
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/bin/Debug/net9.0/MathGame.deps.json
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/bin/Debug/net9.0/MathGame.runtimeconfig.json
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/bin/Debug/net9.0/MathGame.dll
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/bin/Debug/net9.0/MathGame.pdb
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.AssemblyInfoInputs.cache
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.AssemblyInfo.cs
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.csproj.CoreCompileInputs.cache
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.dll
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/refint/MathGame.dll
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.pdb
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.genruntimeconfig.cache
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/ref/MathGame.dll
