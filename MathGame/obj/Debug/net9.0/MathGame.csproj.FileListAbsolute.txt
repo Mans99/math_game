@@ -12,3 +12,4 @@
 /Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.pdb
 /Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.genruntimeconfig.cache
 /Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/ref/MathGame.dll
+/Users/mansenglund/Desktop/School/Projekt/c#/mathGame/MathGame/obj/Debug/net9.0/MathGame.sourcelink.json
