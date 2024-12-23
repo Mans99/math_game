@@ -9,11 +9,11 @@ using static System.Net.Mime.MediaTypeNames;
 
 class Program {
     Leaderboard l;
-    Game game;
+    GameMonitor game;
 
     public Program() {
         l = new Leaderboard();
-        game = new Game();
+        game = new GameMonitor(l);
     }
 
 
@@ -31,25 +31,27 @@ class Program {
 
     void input() {
         var choice = Console.ReadLine().ToLower();
+        Console.Clear();
         switch (choice)
         {
             case "h":
                 Console.WriteLine("Welcome to Math Madness!\nThe rules are as follows: In 20 seconds you should try to answer as many equations as possible. Each correct answer gives one point while each wrong subtracts two... so be certain when you answer! Have fun and good luck!");
                 break;
             case "1":
-                game.play(l, 1);
+                game.play(1);
+
                 break;
             case "2":
-                game.play(l, 1);
+                game.play(2);
                 break;
             case "3":
-                game.play(l, 1);
+                game.play(3);
                 break;
             case "4":
-                game.play(l, 1);
+                game.play(4);
                 break;
             case "5":
-                game.play(l, 1);
+                game.play(5);
                 break;
             case "l":
                 l.printHistory(0);

@@ -5,33 +5,30 @@ varje game får en monitor och en timer samt en game metod, end when timeout.
 */
 
 using System.Reflection;
+using System.Runtime.CompilerServices;
+using static Leaderboard;
 
-class Game() {
+class GameMonitor {
+    Boolean ended = false;
+    Leaderboard l;
+    LeaderboardItem item;
+
+    public GameMonitor(Leaderboard l) {
+        this.l = l;
+    }    
+    bool hasEnded() {
+        return ended;
+    }
+
+
+
+
+
+    public void play(int mode){
+        item = l.createItem();
+
+    }
+
     
-
-
-
-
-
-    public void play(Leaderboard l, int mode){
-        l.createItem();
-
-    }
-
-    void addition() {
-
-    }
-
-    void subtraction() {
-
-    }
-
-    void division() {
-
-    }
-
-    void multiplication() {
-
-    }
 
 }
