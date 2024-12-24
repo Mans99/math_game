@@ -1,5 +1,6 @@
 class Leaderboard {
     List<LeaderboardItem> leaderboard;
+    LeaderboardItem best;
 
     public Leaderboard() {
         leaderboard = new List<LeaderboardItem>();
@@ -15,13 +16,17 @@ class Leaderboard {
 
 
     public class LeaderboardItem {
-        int score;
+        int score = 0;
         List<String> history;
         int gamemode;
 
 
         public int getScore() {
             return 0;
+        }
+
+        public void setScore(int delta) {
+            score += delta;
         }
 
         
