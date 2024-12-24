@@ -1,10 +1,8 @@
 class TimerThread {
-    GameMonitor? monitor;
-    CancellationToken token;
+    GameMonitor monitor;
 
     public TimerThread(GameMonitor monitor) {
         this.monitor = monitor;
-        this.token = token;
     }
 
     public void Run() {

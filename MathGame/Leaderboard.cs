@@ -22,7 +22,7 @@ class Leaderboard {
 
 
         public int getScore() {
-            return 0;
+            return score;
         }
 
         public void setScore(int delta) {

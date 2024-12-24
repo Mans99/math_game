@@ -36,23 +36,21 @@ class Program {
                 break;
             case "1":
                 game.play(1);
-                game.lockConsole();
                 break;
             case "2":
                 game.play(2);
-                game.lockConsole();
+                
                 break;
             case "3":
                 game.play(3);
-                game.lockConsole();
+                
                 break;
             case "4":
                 game.play(4);
-                game.lockConsole();
+                
                 break;
             case "5":
                 game.play(5);
-                game.lockConsole();
                 break;
             case "l":
                 l.printHistory(0);
